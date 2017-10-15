@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_bus"
+        android:title="Nearby Bus Stop"
+        android:icon="@drawable/ic_directions_bus_black_24dp"/>
+
+    <item
+        android:id="@+id/bottom_danger"
+        android:title="Emergency"
+        android:icon="@drawable/ic_warning_black_24dp"/>
+
+    <item
+        android:id="@+id/bottom_near_bus"
+        android:title="MapView"
+        android:icon="@drawable/ic_swap_vert_black_24dp"/>
+
+</menu>
